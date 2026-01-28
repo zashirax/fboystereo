@@ -4,6 +4,7 @@
  * @author DaddyKaze
  * @authorId 1461756942941950105
  * @website https://discord.gg/KcJtS89VxD
+ * @source https://raw.githubusercontent.com/zashirax/fboystereo/refs/heads/main/fuckboystereo.plugin.js
  * @description gets ur dead ass mic from mono to stereo on discord this makes u fuckable to da bitches
  */
 
