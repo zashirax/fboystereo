@@ -79,7 +79,7 @@ module.exports = class FuckboyStereo {
         }
     }
     stop() {
-        BdApi.Patcher.unpatchAll("FuckboyStereo");
+        BdApi.Patcher.unpatchAll();
         this.fuckboy = new WeakSet();
     }
 };
